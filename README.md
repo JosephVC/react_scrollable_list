@@ -1,3 +1,5 @@
+I really needed an example of how to do a scrollable list of items, preferably with an image preview, for my PDF OCR project.  This seems(?) to fit the bill, as now I can create something that allows the preview of OCR'd pdfs rather than random images.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
